@@ -1,6 +1,14 @@
 # Amazon Data Scraping using Python
 This is a step-by-step guide to scraping data from Amazon website and converting it into a CSV file format. The guide will explain everything in a simple manner, from understanding web scraping, understanding the structure of HTML data, and discussing some of the prerequisites required for this project.
 
+## Data scraping is an important skill for data engineers to have for several reasons:
+
+1.Data Collection: Web scraping enables data engineers to collect vast amounts of data from various sources, including websites, and convert it into a format that can be used for analysis and modeling.  
+  
+2.Automation: By automating the data collection process, data engineers can save time and increase efficiency compared to manual data collection methods.  
+  
+3.Data Cleaning: Web scraping often results in large amounts of messy and unstructured data, requiring data engineers to clean and transform the data into a usable format. This skill is essential for data engineers who need to ensure the quality of the data they work with.  
+  
 ## Prerequisites
 
 Jupyter Notebook  
