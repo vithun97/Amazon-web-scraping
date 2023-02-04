@@ -11,13 +11,15 @@ I'm now excited to share my newfound knowledge and expertise, guiding others thr
   
 **3.Data Cleaning:** Web scraping often results in large amounts of messy and unstructured data, requiring data engineers to clean and transform the data into a usable format. This skill is essential for data engineers who need to ensure the quality of the data they work with.  
   
-## Prerequisites
+## Pre-requisites:
 
-Jupyter Notebook  
-Install the following packages:  
-Beautiful Soup (bs4)  
-Requests  
-Pandas  
+* Jupyter Notebook  
+    
+**Install the following packages:**  
+  
+* Beautiful Soup (bs4)  
+* Requests  
+* Pandas  
 
 ## Step 1: Understanding the Basic HTML Structure  
 HTML stands for hypertext markup language, and the structure of the HTML code consists of the following elements:  
